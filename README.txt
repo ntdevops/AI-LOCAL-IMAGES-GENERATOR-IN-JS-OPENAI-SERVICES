@@ -7,6 +7,11 @@ A SIMPLE JAVASCRIPT PROJECT USING THE OPENAI SERVICES
 
 Requisites
 1) GIT needs to be installed on your device
+   https://git-scm.com/downloads
+   NODE JS needs to be installed on your device
+   https://nodejs.org/it/download/
+   OPENAI account for use the API keys in the .env file of the project
+   https://platform.openai.com/overview
 
 2) Clone the project with the following command :
   - git clone https://github.com/ntdevops/AI-LOCAL-IMAGES-GENERATOR-IN-JS-OPENAI-SERVICES.git
@@ -25,7 +30,7 @@ Requisites
 
 6) now open your browser and type http://localhost:5000/
 
-7) well start to play with this little funny creative toy
+7) well, start to play with this little funny creative toy
 
 
 ######SHARE YOUR PROMPTS AND RESULTS#############
